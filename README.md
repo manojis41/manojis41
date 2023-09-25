@@ -2,4 +2,4 @@
 - 👀 I’m interested in various things like: computers, codeing, books etc.
 - 🌱 I’m currently learning C, Python, SQL (taking CS50x by Harvard University)
 - 💞️ I’m looking to collaborate on my lab projects
-- 📫 How to reach me fb.com/manojis41, manojis41@gmail.com
+- 📫 How to reach me https://fb.com/manojis41, manojis41@gmail.com
